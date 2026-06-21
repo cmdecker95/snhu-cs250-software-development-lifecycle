@@ -1,4 +1,4 @@
-> Markdown version of [Sprint Review and Retrospective.docx](./Sprint Review and Retrospective.docx)
+> Markdown version of `Sprint Review and Retrospective.docx`
 
 # Sprint Review and Retrospective
 
